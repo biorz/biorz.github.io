@@ -1,0 +1,54 @@
+body {
+  width: 100%;
+}
+@media only screen and (max-width: 479px) {
+  #container > .outer {
+    margin-bottom: 0;
+  }
+  #banner .swiper-wrapper .swiper-slide .bg .post-title {
+    left: 10%;
+    padding: 10px;
+    font-size: 18px;
+  }
+  #main {
+    margin-top: -20px;
+    float: none;
+  }
+  #main .main-body-header,
+  #main .archive-year-wrap {
+    padding: 13px 15px 12px;
+  }
+  #main .article-single,
+  #main #comments {
+    padding: 15px;
+  }
+  #main #page-nav {
+    padding-right: 15px;
+    box-sizing: border-box;
+  }
+  .article-row {
+    padding: 0 0 0 15px;
+    border: none;
+  }
+  .article-summary {
+    width: 100%;
+  }
+  .article-summary .article-summary-inner {
+    margin: 15px 15px 15px 0;
+  }
+  #sidebar {
+    float: none;
+    margin: 0px;
+    width: 100%;
+    background: #f0f0f0;
+  }
+  #sidebar .sidebar-top,
+  #sidebar .widget-wrap {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 15px;
+  }
+  #sidebar .widgets-container {
+    padding-bottom: 15px;
+  }
+}

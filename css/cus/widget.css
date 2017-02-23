@@ -1,0 +1,6 @@
+body {
+  width: 100%;
+}
+#recent-post .item-inner .item-category .fa {
+  color: #bbb;
+}

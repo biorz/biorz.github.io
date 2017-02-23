@@ -1,0 +1,78 @@
+.archive-year {
+  line-height: 1em;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+body {
+  width: 100%;
+}
+.archives {
+  background-color: #fff;
+}
+.archive-year-wrap {
+  padding: 18px 30px 17px;
+  margin: 0;
+  font-size: 16px;
+  color: #666;
+  border-bottom: 1px solid #eee;
+  background-color: #fff;
+}
+.archive-year i {
+  margin-right: 8px !important;
+}
+.article-row {
+  width: 100%;
+  float: left;
+  position: relative;
+  padding: 10px 0px 0px 30px;
+  border-bottom: 1px solid #eee;
+  box-sizing: border-box;
+}
+#pages-nav {
+  float: left;
+  width: 100%;
+  display: block;
+  margin: 30px 0px 45px 0px;
+  text-align: center;
+  color: #aaa;
+}
+#pages-nav .pages {
+  display: block;
+  font-size: 17px;
+  font-weight: 300;
+  margin-bottom: 1em !important;
+  border: none !important;
+}
+#pages-nav .pages:before {
+  content: "\f15c";
+  font-family: FontAwesome;
+  margin-right: 6px;
+}
+#pages-nav .page-number,
+#pages-nav .extend {
+  color: #38b7ea;
+  position: relative;
+  overflow: hidden;
+  font-size: 16px;
+  padding: 7px 8px;
+  display: inline;
+  margin: 0 2px;
+  text-decoration: none;
+  border-bottom: 3px solid #ddd;
+  border-top: 1px solid #f1f1f1;
+  font-weight: 600;
+  transition: 0.2s ease-in;
+}
+#pages-nav .page-number:hover,
+#pages-nav .extend:hover,
+#pages-nav .page-number:active,
+#pages-nav .extend:active,
+#pages-nav .page-number.current,
+#pages-nav .extend.current {
+  color: #444;
+  border-bottom: 3px solid #38b7ea;
+  border-top: 1px solid #f1f1f1;
+}
+#pages-nav .space {
+  color: #ddd;
+}

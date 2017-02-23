@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>http://yoursite.com/2017/02/16/Javascript-%E5%B8%B8%E7%94%A8api/</loc>
+    <lastmod>2017-02-18T05:18:51.962Z</lastmod>
+    <data>
+        <display>
+        <title>Javascript 常用api</title>
+        <pubTime>2017-02-16T08:56:26.000Z</pubTime>
+        
+        <tag>javascript基础</tag>
+         
+         
+           
+             
+              <breadCrumb title="javascript基础" url="http://yoursite.com/categories/javascript%E5%9F%BA%E7%A1%80/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2017/02/18/Javascript-%E5%8E%9F%E5%9E%8B%E9%93%BE%E8%A7%A3%E6%9E%90/</loc>
+    <lastmod>2017-02-18T05:17:01.674Z</lastmod>
+    <data>
+        <display>
+        <title>Javascript 原型链解析</title>
+        <pubTime>2017-02-18T05:17:01.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2017/02/17/music/</loc>
+    <lastmod>2017-02-17T07:09:46.734Z</lastmod>
+    <data>
+        <display>
+        <title>music</title>
+        <pubTime>2017-02-17T07:06:05.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2017/02/13/hello-world/</loc>
+    <lastmod>2017-02-17T04:38:56.281Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2017-02-13T05:38:50.430Z</pubTime>
+        
+        <tag>测试</tag>
+         
+         
+           
+             
+              <breadCrumb title="测试" url="http://yoursite.com/categories/%E6%B5%8B%E8%AF%95/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2017/02/16/%E6%90%9E%E7%AC%91%E5%9B%BE%E9%9B%86-1/</loc>
+    <lastmod>2017-02-17T04:38:53.260Z</lastmod>
+    <data>
+        <display>
+        <title>搞笑图集-1</title>
+        <pubTime>2017-02-16T12:47:39.000Z</pubTime>
+        
+        <tag>搞笑</tag>
+         
+        <tag>轻松</tag>
+         
+        <tag>动态图</tag>
+         
+         
+           
+             
+              <breadCrumb title="搞笑" url="http://yoursite.com/categories/%E6%90%9E%E7%AC%91/"/>
+          
+             
+              <breadCrumb title="轻松" url="http://yoursite.com/categories/%E6%90%9E%E7%AC%91/%E8%BD%BB%E6%9D%BE/"/>
+          
+             
+              <breadCrumb title="动态图" url="http://yoursite.com/categories/%E6%90%9E%E7%AC%91/%E8%BD%BB%E6%9D%BE/%E5%8A%A8%E6%80%81%E5%9B%BE/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
+</urlset>

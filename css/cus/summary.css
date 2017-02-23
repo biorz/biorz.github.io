@@ -1,0 +1,80 @@
+body {
+  width: 100%;
+}
+.article-summary {
+  width: 50%;
+  float: left;
+  margin: 20px 0 30px;
+}
+.article-summary a {
+  text-decoration: none;
+  color: #38b7ea;
+}
+.article-summary .article-summary-inner {
+  margin-right: 30px;
+}
+.article-summary .article-summary-inner .thumbnail {
+  height: 0;
+  width: 100%;
+  display: block;
+  overflow: hidden;
+  position: relative;
+  margin-bottom: 1em;
+  padding-bottom: 47.11%;
+}
+.article-summary .article-summary-inner .thumbnail .thumbnail-image {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  opacity: 1;
+  background-size: cover;
+  background-position: center;
+  transition: opacity 0.3s ease-in;
+}
+.article-summary .article-summary-inner .thumbnail .thumbnail-none {
+  width: 100%;
+  height: 100%;
+  background-size: 100% 100%;
+  background-image: url("images/thumb-default.png");
+}
+.article-summary .article-summary-inner .article-title {
+  margin-bottom: 10px;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 1.5em;
+  word-wrap: break-word;
+}
+.article-summary .article-summary-inner .article-title a {
+  transition: color 0.3s ease-in;
+  color: #444;
+}
+.article-summary .article-summary-inner .article-excerpt {
+  position: relative;
+  color: #aaa;
+  font-size: 16px;
+  line-height: 1.6em;
+  overflow: hidden;
+  max-height: 6.4em;
+}
+.article-summary .article-summary-inner .article-meta {
+  margin-bottom: 0;
+}
+.article-summary .article-summary-inner .article-meta .category {
+  margin-right: 6px;
+  float: left;
+}
+.article-summary .article-summary-inner .article-meta .category .fa {
+  margin: 0 5px;
+  color: #bbb;
+}
+.article-summary .article-summary-inner .article-meta .date {
+  float: left;
+  color: #bbb;
+}
+.article-summary:hover .thumbnail .thumbnail-image {
+  opacity: 0.7;
+}
+.article-summary:hover .article-title a {
+  color: #38b7ea;
+}
