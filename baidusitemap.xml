@@ -4,8 +4,48 @@
 
     
   <url>
+    <loc>http://yoursite.com/2017/02/25/THREE-JS-%E5%87%A0%E4%BD%95%E5%BD%A2%E7%8A%B6/</loc>
+    <lastmod>2017-02-25T09:45:27.086Z</lastmod>
+    <data>
+        <display>
+        <title>THREE.JS 几何形状</title>
+        <pubTime>2017-02-25T09:38:36.000Z</pubTime>
+        
+        <tag>three.js</tag>
+         
+         
+           
+             
+              <breadCrumb title="three.js" url="http://yoursite.com/categories/three-js/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2017/02/25/THREE-JS-%E7%85%A7%E7%9B%B8%E6%9C%BA/</loc>
+    <lastmod>2017-02-25T09:45:22.811Z</lastmod>
+    <data>
+        <display>
+        <title>THREE.JS 照相机</title>
+        <pubTime>2017-02-25T07:59:00.000Z</pubTime>
+        
+        <tag>three.js</tag>
+         
+         
+           
+             
+              <breadCrumb title="three.js" url="http://yoursite.com/categories/three-js/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://yoursite.com/2017/02/16/Javascript-%E5%B8%B8%E7%94%A8api/</loc>
-    <lastmod>2017-02-18T05:18:51.962Z</lastmod>
+    <lastmod>2017-02-25T09:43:38.168Z</lastmod>
     <data>
         <display>
         <title>Javascript 常用api</title>
@@ -17,56 +57,6 @@
            
              
               <breadCrumb title="javascript基础" url="http://yoursite.com/categories/javascript%E5%9F%BA%E7%A1%80/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/2017/02/18/Javascript-%E5%8E%9F%E5%9E%8B%E9%93%BE%E8%A7%A3%E6%9E%90/</loc>
-    <lastmod>2017-02-18T05:17:01.674Z</lastmod>
-    <data>
-        <display>
-        <title>Javascript 原型链解析</title>
-        <pubTime>2017-02-18T05:17:01.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/2017/02/17/music/</loc>
-    <lastmod>2017-02-17T07:09:46.734Z</lastmod>
-    <data>
-        <display>
-        <title>music</title>
-        <pubTime>2017-02-17T07:06:05.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/2017/02/13/hello-world/</loc>
-    <lastmod>2017-02-17T04:38:56.281Z</lastmod>
-    <data>
-        <display>
-        <title>Hello World</title>
-        <pubTime>2017-02-13T05:38:50.430Z</pubTime>
-        
-        <tag>测试</tag>
-         
-         
-           
-             
-              <breadCrumb title="测试" url="http://yoursite.com/categories/%E6%B5%8B%E8%AF%95/"/>
           
         </display>
     </data>

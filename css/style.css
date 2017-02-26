@@ -2376,6 +2376,10 @@ body:after {
   font-size: 12px;
   color: #969696;
 }
+.article-category .fa-caret-right {
+  margin: 0 5px !important;
+  color: #bbb;
+}
 #comments {
   padding: 20px;
 }
