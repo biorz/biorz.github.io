@@ -1,2 +1,2 @@
-个人博客 
-https://github.github.io/
+个人博客 : 
+https://biorz.github.io/
